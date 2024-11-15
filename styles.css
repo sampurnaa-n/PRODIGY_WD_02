@@ -28,8 +28,8 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: coral;
-    color: navy;
+    background-color: rgb(241, 157, 126);
+    color: black;
 }
 
 button:hover {
@@ -47,7 +47,7 @@ button:hover {
 }
 
 #laps li {
-    background: #761bcc;
+    background: #906bb3;
     padding: 5px;
     margin: 5px 0;
     border-radius: 5px;
